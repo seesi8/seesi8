@@ -1,6 +1,6 @@
 Project Hall Showcase:
 
-  - Open Source Showcase (Language: Python): [https://github.com/seesi8/OTA-Wifi-Configuration](https://github.com/seesi8/OTA-Wifi-Configuration)
+  - Open Source Showcase (Language: Python): [https://github.com/seesi8/OTA-Wifi-Configuration](Raspberry Pi over the air wifi)
   - Most Advanced Showcase (Language: Python): [https://github.com/Ballbert-LLC/ballbert](https://github.com/Ballbert-LLC/ballbert)
   - Swift Showcase (Language: Swift): [https://github.com/Ballbert-LLC/ballbert](https://github.com/seesi8/Ballbert_IOS)
   - Flutter Showcase (Language: Dart): [https://github.com/Ballbert-LLC/ballbert](https://github.com/seesi8/messages)
