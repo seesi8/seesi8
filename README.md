@@ -1,11 +1,11 @@
 Project Hall Showcase:
 
-  - Open Source Showcase (Language: Python): [Raspberry Pi over the air wifi](https://github.com/seesi8/OTA-Wifi-Configuration)
-  - Most Advanced Showcase (Language: Python): [https://github.com/Ballbert-LLC/ballbert](https://github.com/Ballbert-LLC/ballbert)
-  - Swift Showcase (Language: Swift): [https://github.com/Ballbert-LLC/ballbert](https://github.com/seesi8/Ballbert_IOS)
-  - Flutter Showcase (Language: Dart): [https://github.com/Ballbert-LLC/ballbert](https://github.com/seesi8/messages)
-  - Data Science Showcase (Language: Python): [https://www.kaggle.com/code/samuelliebert/mmfinal/output](https://www.kaggle.com/code/samuelliebert/mmfinal/output)(Kaggle)
-  - React Showcawse (Language: Javascript): [https://github.com/seesi8/portfolio](https://github.com/seesi8/portfolio)
+  - Open Source Showcase (Language: Python): [Raspberry Pi over the air wifi configuration.](https://github.com/seesi8/OTA-Wifi-Configuration)
+  - Most Advanced Showcase (Language: Python): [Ballbert voice assistant.](https://github.com/Ballbert-LLC/ballbert)
+  - Swift Showcase (Language: Swift): [Ballbert voice assistant IOS app.](https://github.com/seesi8/Ballbert_IOS)
+  - Flutter Showcase (Language: Dart): [Messages app built in flutter.](https://github.com/seesi8/messages)
+  - Data Science Showcase (Language: Python): [Kaggle NCAA March Madness prediction compition.](https://www.kaggle.com/code/samuelliebert/mmfinal/output)
+  - React Showcawse (Language: Javascript): [Portfolio website built in React. (Out of Date)](https://github.com/seesi8/portfolio)
 
 
 <!---
