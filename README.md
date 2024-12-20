@@ -5,7 +5,7 @@ Project Hall Showcase:
   - Swift Showcase (Language: Swift): [Ballbert voice assistant IOS app.](https://github.com/seesi8/Ballbert_IOS)
   - Flutter Showcase (Language: Dart): [Messages app built in flutter.](https://github.com/seesi8/messages)
   - Data Science Showcase (Language: Python): [Kaggle NCAA March Madness prediction compition.](https://www.kaggle.com/code/samuelliebert/mmfinal/output)
-  - React Showcawse (Language: Javascript): [Portfolio website built in React. (Out of Date)](https://github.com/seesi8/portfolio)
+  - React Showcawse (Language: Javascript): [Fanticy Basketball Tools](https://github.com/seesi8/basketball)
 
 
 <!---
